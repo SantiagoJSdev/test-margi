@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-margi/static/css/main.b4046142.css",
-    "main.js": "/test-margi/static/js/main.506f8d2a.js",
+    "main.js": "/test-margi/static/js/main.ce569512.js",
     "index.html": "/test-margi/index.html",
     "main.b4046142.css.map": "/test-margi/static/css/main.b4046142.css.map",
-    "main.506f8d2a.js.map": "/test-margi/static/js/main.506f8d2a.js.map"
+    "main.ce569512.js.map": "/test-margi/static/js/main.ce569512.js.map"
   },
   "entrypoints": [
     "static/css/main.b4046142.css",
-    "static/js/main.506f8d2a.js"
+    "static/js/main.ce569512.js"
   ]
 }

@@ -14,8 +14,11 @@ export const Footer = () => {
                 </li>
                 <li className='container__footer__li'> <p> |Todos los derechos reservados | Políticas de Privacidad. </p> </li>
                 <li className='container__footer__liRedes'>
-                <ul>
-                        <li><img src="../imagen/instagram-logo.svg" alt="blog  marketing instagram" className='img__redes' /></li>
+                    <ul>
+                        {/* <li><img src="../imagen/instagram-logo.svg" alt="blog  marketing instagram" className='img__redes' /></li>
+                        <li><img src="../imagen/youtube-logo.svg" alt="blog  marketing youtube" className='img__redes' /></li>
+                        <li><img src="../imagen/tiktok-logo.svg" alt="blog  marketing tiktok" className='img__redes' /></li> */}
+                        <li><img src="https://github.com/SantiagoJSdev/test-margi/assets/87577172/81c2e22c-d6ae-4994-a9b2-eb83b70e80fc" alt="blog  marketing instagram" className='img__redes' /></li>
                         <li><img src="../imagen/youtube-logo.svg" alt="blog  marketing youtube" className='img__redes' /></li>
                         <li><img src="../imagen/tiktok-logo.svg" alt="blog  marketing tiktok" className='img__redes' /></li>
                     </ul>
